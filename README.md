@@ -11,7 +11,7 @@ Having successfully completed my Master's degree, I have built a versatile toolk
 * **Continuous Growth:** I'm always looking for the next challenge to expand my technical expertise and contribute to meaningful innovation
 
 ## 📂 Featured Project
-Take a deeper look to the projects I worked on during these years at the university:
+Take a deeper look at the projects I worked on during my university years:
 * [Master Thesis](https://github.com/mattiaconcari/TopOpt_Lattice_Hip_Stem): Design highly optimized, ISO 7206-4 fatigue-resistant orthopedic hip implants utilizing Additive Manufacturing capabilities, specifically   Triply Periodic Minimal Surfaces (TPMS).
 * [Research scolarship](https://github.com/Miche01/Biomechanical-Analysis-and-FEM-Simulation-of-Circular-Seating-Systems): Validation of the digital twins of the circular padding prototypes against experimental data. First steps for the integration of advanced human body models into the simulation environment.
 * [Digital Prototypes For Pediatric Cardiac Surgery](https://github.com/Miche01/DIGITAL-PROTOTYPES-FOR-PEDIATRIC-CARDIAC-SURGERY): Design a complete heart simulator made of the models of two pediatric pathological hearts put in an environment that replicates the rib cage.
