@@ -17,7 +17,7 @@ Take a deeper look at the projects I worked on during my university years:
 * [Digital Prototypes For Pediatric Cardiac Surgery](https://github.com/Miche01/DIGITAL-PROTOTYPES-FOR-PEDIATRIC-CARDIAC-SURGERY): Design a complete heart simulator made of the models of two pediatric pathological hearts put in an environment that replicates the rib cage.
 * [Robotic Anastomosis: Trajectory & Geometry Evaluation](https://github.com/mattiaconcari/Anastomosis_Suturing): Computational workflow designed to evaluate robotic suturing kinematics.
 * [Redesign Composite Console](https://github.com/mattiaconcari/Redesign_Composite_Console): This project demonstrates a complete structural validation loop for a composite marine console. The aim was the reduction of the weigth without compromising the operational safety  
-
+* [BiomechanicalSignal Processing and Data Analysis](https://github.com/Miche01/Biomechanical_Signal_Processing_-_Data_Analysis): The project is a journey from raw data acquisition to the extraction of clinical and ergonomic indicators.
 
 ## 🤝 Let's Connect!
 I’m always open to networking with fellow engineers, tech enthusiasts, or anyone who shares a passion for sports and innovation.
